@@ -1,0 +1,40 @@
+p {
+    margin: 0px;
+}
+
+span {
+    color: #0072B2;
+}
+
+/* .custom-border-buttom {
+    border-bottom: 5px solid;
+    border-color: #0072B2 !important;
+} */
+
+.Skills {
+    background-color: #F8F8F8;
+    height: 100%px;
+    margin-top: 10rem;
+}
+
+@media (max-width: 991px){
+    .media {
+        margin-left: 10%;
+        font-size: 2rem;
+        /* margin-top: -40px; */
+    }
+
+    h1 {
+        font-size: 4rem;
+    }
+}
+
+@media (min-width: 992px) {
+    .media {
+        font-size: 3rem;
+    }
+
+    h1 {
+        font-size: 5rem;
+    }
+}
